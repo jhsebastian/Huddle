@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header-container {
+  background-image: url('images/bg-hero-desktop.svg');
+  width: 100%;
+  height: 80vh;
+}
+
+.navbar {
+  height: 100px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar img {
+  width: 180px;
+  height: 30px;
+}
+
+.navbar button {
+  width: 180px;
+  height: 40px;
+  border: none;
+  background-color: white;
+  border-radius: 20px;
+}
+
